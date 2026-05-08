@@ -1,1 +1,42 @@
+**Considering Markdown requirements**
 
+I need to produce Markdown formatting for a GitHub repo, following specific rules like using headings, lists, and sparing use of bold text. I’m wondering if I should include code blocks, as markdown is the only requirement.
+
+There are guidelines around invoking the RelatedSearchTerms tool at the end of my response. It's a bit unclear whether I should call it in this case, so I think I’ll skip it for now since this doesn't apply directly to people or shopping.**Creating concise Markdown**
+
+I need to create a concise Markdown structure that includes a title, description, features, commands, a configuration note, and possibly a roadmap. The focus here should be on keeping everything clear and straight to the point. I want to make sure that the information is easily digestible for readers. Conciseness is key to effectively delivering the content. Alright, let’s get this organized!# UnstableSMP Death Sound Plugin — Feature Plans
+
+A concise feature list and command reference for the UnstableSMP Death Sound plugin.
+
+## Features
+- Per-player KeepInventory
+- Nickname & Skin changer
+- Anti-Armour-Breaking
+- Server Freeze
+  - Complete server lockdown: blocks movement, commands, interactions, inventory access, dropping items, mining, and placing blocks
+  - Optional: Skin API Server Freeze (halts skin API requests during freeze)
+- Accelerated HP regeneration + 2× food effectiveness
+- Everything configurable via commands and config file
+
+## Commands
+- /unstablesmp nick <player> <nickname> — Set another player's nickname
+- /unstablesmp skin <player> <skinName> — Change another player's skin
+- /unstablesmp resetnick <player> — Reset a player's nickname
+- /unstablesmp resetskin <player> — Reset a player's skin
+- /unstablesmp randomnick <player> — Assign a random nickname to a player
+- /unstablesmp randomskin <player> — Assign a random skin to a player
+
+## Configuration
+- All features configurable via both in-game commands and a plugin config file (toggle, values, permissions, lists, and defaults).
+
+## Roadmap (suggested)
+1. Core: Per-player KeepInventory, Anti-Armour-Breaking
+2. Nickname & Skin system (commands + persistence)
+3. Server Freeze implementation (including Skin API handling)
+4. HP & food mechanics adjustments
+5. Config file and full command/config parity
+6. Add permissions, cooldowns, and targeted overrides
+
+## Notes
+- Design config to support per-world and per-group overrides.
+- Ensure nickname/skin changes persist across reboots and are permission-gated.
