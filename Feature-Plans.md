@@ -80,6 +80,9 @@ Allow a stasis totem system that stores and later teleports a player.
 - Coordinates may be set using `x y z`
 - Coordinates may also be set using `crosshair crosshair crosshair`
 
+**Behavior**
+- When the stasis totem pops, the player should be teleported to the coordinates that were set
+
 **Notes**
 - Define whether the location is stored per player or per item
 - Clarify activation, teleport timing, and any cooldowns
