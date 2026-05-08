@@ -10,6 +10,14 @@ The plugin is intended to provide:
 - combat and stasis utility features
 - configurable behavior through commands and a config file
 
+## Links
+- BuiltByBit: [Death Sound Plugin - UnstableSMP](https://builtbybit.com/resources/death-sound-plugin-unstablesmp.102879/)
+- Modrinth: [Death Sound Plugin - UnstableSMP](https://modrinth.com/plugin/death-sound-plugin-unstablesmp)
+- Curseforge: [Death Sound Plugin - UnstableSMP](https://www.curseforge.com/minecraft/bukkit-plugins/death-sound-plugin-unstablesmp)
+- SpigotMC: [Death Sound Plugin - UnstableSMP](https://www.spigotmc.org/resources/death-sound-plugin-unstablesmp.134661/)
+- PaperMC: [Death Sound Plugin - UnstableSMP](https://hangar.papermc.io/Shadowfang/Death-Sound-Plugin-Unstable)
+- Support Discord: [Join here](https://discord.gg/ckPnDAGJkV)
+
 ---
 
 ## Planned Features
