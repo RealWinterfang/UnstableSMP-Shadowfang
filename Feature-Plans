@@ -1,13 +1,3 @@
-**Considering Markdown requirements**
-
-I need to produce Markdown formatting for a GitHub repo, following specific rules like using headings, lists, and sparing use of bold text. I’m wondering if I should include code blocks, as markdown is the only requirement.
-
-There are guidelines around invoking the RelatedSearchTerms tool at the end of my response. It's a bit unclear whether I should call it in this case, so I think I’ll skip it for now since this doesn't apply directly to people or shopping.**Creating concise Markdown**
-
-I need to create a concise Markdown structure that includes a title, description, features, commands, a configuration note, and possibly a roadmap. The focus here should be on keeping everything clear and straight to the point. I want to make sure that the information is easily digestible for readers. Conciseness is key to effectively delivering the content. Alright, let’s get this organized!# UnstableSMP Death Sound Plugin — Feature Plans
-
-A concise feature list and command reference for the UnstableSMP Death Sound plugin.
-
 ## Features
 - Per-player KeepInventory
 - Nickname & Skin changer
