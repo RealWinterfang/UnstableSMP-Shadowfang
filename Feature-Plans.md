@@ -48,7 +48,7 @@ Prevent armour from breaking due to durability loss.
 
 ### Server Freeze
 Provide a complete server lockdown mode.
-
+- For example something like maintenance, or whitelist mode
 **Effects**
 - Blocks movement
 - Blocks commands
